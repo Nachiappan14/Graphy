@@ -9,10 +9,15 @@ and now you are prepared to start graphing. Run graphy.py to start graphing by t
 python3 graphy.py
 
 i will ask you to input the equation for y.please do so in the format you generally use in the interactive interpreter of the python.
+
 e.g:- use tan(x) for tan x
+      
       use x**2 for x^2,
+      
       use exp(x) for e^x,
+      
       use atan(x) for tan-1(x),
+      
       and so on
 
 
