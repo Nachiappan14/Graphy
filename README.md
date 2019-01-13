@@ -13,3 +13,9 @@ e.g:- use tan(x) for tan x
  A new window will appear on the screen containing the graph and the zoom in and zoom out buttons 
  click on zoom in button and zoom out button for corresponding effects
  and click any other place in the window to close the window.
+ 
+ accuracy is the factor that is build for the people who needs high accuracy.you will be asked to enter a accuracy factor so enter it in the range of 1 to 10 unless you need high accuracy.
+ never give a negative or a value less than one
+ higher the value of accuracy given higher the time taken by the system to sketch the graph.so please mind it.....
+ and thats it.....
+ ENJOY GRAPHING
